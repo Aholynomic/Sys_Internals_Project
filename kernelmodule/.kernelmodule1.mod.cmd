@@ -1,0 +1,1 @@
+cmd_/home/cmp408/workspace/Assessment/kernelmodule1/kernelmodule1.mod := { echo  /home/cmp408/workspace/Assessment/kernelmodule1/kernelmodule1.o; echo; } > /home/cmp408/workspace/Assessment/kernelmodule1/kernelmodule1.mod

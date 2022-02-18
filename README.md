@@ -1,4 +1,4 @@
-# Sys_Internals_Project
+# sys-internals-project
  A Kernel Module to Sniff Network System Calls
 
 ## Purpose

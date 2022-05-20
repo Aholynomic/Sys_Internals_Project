@@ -1,5 +1,5 @@
 # sys-internals-project
- A Kernel Module to Sniff Network System Calls
+ A Kernel Module to Sniff Network System Calls, Sending Data to AWS
 
 ## Purpose
 The creation of the kernel module was part of a mini project I conducted in my fourth year, for CMP408. The module records network data such as IP addresses and network ports and logs this to a database held in the AWS cloud. The main aim was to create a way of infiltrating the demo application running on the Rasberry Pi we were provided with and focusing on sniffing network data from visitors that used the application.
